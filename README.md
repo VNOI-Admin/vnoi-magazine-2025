@@ -1,4 +1,4 @@
-# VNOI magazine 2024
+# VNOI magazine 2025
 
 TODO read online link.
 
