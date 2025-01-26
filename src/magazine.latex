@@ -32,8 +32,7 @@
     \input{./articles/dijkstra_prime_algo.latex}
     \input{./articles/general_idea_ds.latex}
 
-    \input{./interviews/2024-hoang-quoc-viet.latex}
-    \input{./interviews/2024-nguyen-duc-thang.latex}
+    \input{./interviews/2024-nguyen-khanh-phuc.latex}
     \input{./interviews/2024-le-minh-hoang.latex}
     \input{./interviews/2024-nguyen-tan-sy-nguyen.latex}
     
