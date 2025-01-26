@@ -27,23 +27,15 @@
     \newpage
     \restoregeometry
     
-    \input{./articles/vnoi-2023.latex}
-    \input{./articles/vnoj.latex}
-    \input{./articles/vnoi-cup.latex}
-    \input{./articles/icpc-olp.latex}
+    \input{./articles/vnoi-2024.latex}
 
-    \input{./articles/tortoise_and_hare.latex}
-    \input{./articles/vtree.latex}
-    \input{./articles/dp_broken_pf.latex}
+    \input{./articles/dijkstra_prime_algo.latex}
+    \input{./articles/general_idea_ds.latex}
 
     \input{./interviews/2024-hoang-quoc-viet.latex}
     \input{./interviews/2024-nguyen-duc-thang.latex}
     \input{./interviews/2024-le-minh-hoang.latex}
-    \input{./interviews/2024-dang-doan-duc-trung.latex}
-
-
-    \input{./articles/do-vui.latex}
-
+    \input{./interviews/2024-nguyen-tan-sy-nguyen.latex}
     
     \newpage
     \input{./credit.latex}

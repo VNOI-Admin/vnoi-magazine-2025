@@ -2,7 +2,7 @@ export TEXINPUTS=.:latex/:
 LATEX=pdflatex
 FLAGS=-halt-on-error -shell-escape
 BUILD_FOLDER=build/
-PDF_NAME=vnoi-magazine-2024.pdf
+PDF_NAME=vnoi-magazine-2025.pdf
 OUTPUT=$(BUILD_FOLDER)/$(PDF_NAME)
 SHELL := /bin/bash
 
