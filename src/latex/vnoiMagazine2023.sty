@@ -106,9 +106,12 @@
     \lhead{\commandkey{title}}
     \rhead{\textrm{\textit{\commandkey{author}}}}
     %
+    % Set intro.png as background for the first page
+    \ClearShipoutPictureBG
+    \AddToShipoutPictureBG{%
+        \includegraphics[width=\paperwidth,height=\paperheight]{../assets/intro.png}%
+    }
     ~\thispagestyle{empty}
-    \setbackgroundEverypage{../assets/page-bg.png}
-    % \autoSetBackground
     %
     \vfill
     \customPart{\commandkey{title}}
@@ -121,6 +124,12 @@
     \vfill
     %
     \newpage
+    %
+    % Set page-bg.png as the default background for subsequent pages
+    \ClearShipoutPictureBG
+    \AddToShipoutPictureBG{%
+        \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg.png}%
+    }
     %
     \everymath={\displaystyle}
     \begin{multicols*}{2}
@@ -145,8 +154,6 @@
     \lhead{\commandkey{title}}
    
     ~\thispagestyle{empty}
-    % \autoSetBackground
-    \setbackgroundEverypage{../assets/page-bg.png}
    
     \vfill
     \customPart{\commandkey{title}}
@@ -154,7 +161,6 @@
     \vfill
    
     \newpage
-   
     \everymath={\displaystyle}
 
     \def\Qtext{\commandkey{interviewA}}
@@ -203,7 +209,12 @@
    
     ~\thispagestyle{empty}
     % \autoSetBackground
-    \setbackgroundEverypage{../assets/page-bg.png}
+    % Set intro.png as background for the first page
+    \ClearShipoutPictureBG
+    \AddToShipoutPictureBG{%
+        \includegraphics[width=\paperwidth,height=\paperheight]{../assets/intro.png}%
+    }
+
    
     \vfill
     \customPart{\commandkey{title}}
@@ -213,7 +224,12 @@
     \lhead{\title}
    
     \newpage
-   
+    % Set page-bg.png as the default background for subsequent pages
+    \ClearShipoutPictureBG
+    \AddToShipoutPictureBG{%
+        \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg.png}%
+    }
+    %
     \everymath={\displaystyle}
 
     \defineIncludeImageForInterviewEnv{}
