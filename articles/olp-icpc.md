@@ -1,7 +1,7 @@
 ---
 layout: post
 meta:
-  title: OLP'24 & ICPC Asia Hanoi 2024 - Nhiều dấu ấn khó quên
+  title: OLP'24 \& ICPC Asia Hanoi 2024 - Nhiều dấu ấn khó quên
   summary: >
     Năm 2024, cộng đồng lập trình thi đấu Việt Nam lại một lần nữa được chứng kiến những màn trình diễn đỉnh cao tại các kỳ thi ICPC và Olympic Tin học Sinh viên. Cùng nhìn lại các kỳ thi này và hành trình VNOI đồng hành tại các kỳ thi nhé!
 ---
@@ -14,27 +14,29 @@ Kỳ thi diễn ra từ ngày 29/02 - 03/03/2024 tại Trường Đại học C�
 
 Kỳ thi quy tụ 65 đội thi đến từ các trường đại học hàng đầu của Hàn Quốc, Nhật Bản, Indonesia, Singapore, Việt Nam,... Trong đó, Việt Nam góp mặt 12 đại diện đến từ cả ba miền:
 
-+ Đại học Bách khoa Hà Nội: HUST Kite;
-+ Đại học Công nghệ, Đại học Quốc gia Hà Nội: sudo, cat, rmdir;
-+ Đại học FPT Hà Nội: FPTU Ching Cheng Hanji, FPTU Right Triangle;
-+ Đại học Bách khoa Đà Nẵng: BKDN.LeaderTurnsBack;
-+ Đại học Khoa học tự nhiên, Đại học Quốc gia Thành phố Hồ Chí Minh: HCMUS-SmokinTomatoes, HCMUS-ExploringWorld, HCMUS-PeTalNyKing;
-+ Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh: UIT.HHQ.SilverBullet;
-+ Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh: HCMUTE.Fortune.
+- Đại học Bách khoa Hà Nội: HUST Kite;
+- Đại học Công nghệ, Đại học Quốc gia Hà Nội: sudo, cat, rmdir;
+- Đại học FPT Hà Nội: FPTU Ching Cheng Hanji, FPTU Right Triangle;
+- Đại học Bách khoa Đà Nẵng: BKDN.LeaderTurnsBack;
+- Đại học Khoa học tự nhiên, Đại học Quốc gia Thành phố Hồ Chí Minh: HCMUS-SmokinTomatoes, HCMUS-ExploringWorld, HCMUS-PeTalNyKing;
+- Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh: UIT.HHQ.SilverBullet;
+- Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh: HCMUTE.Fortune.
 
 Sau 5 tiếng thi đấu căng thẳng, ngôi vô địch ICPC Asia Pacific Championship 2024 đã thuộc về đội tuyển NewTrend đến từ Đại học Quốc gia Seoul (Hàn Quốc). Từ kết quả kỳ thi, Việt Nam có ba đại diện xuất sắc giành được tấm vé tham dự ICPC World Finals 2024, chính là:
-+ UET sudo (Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội): Phạm Quốc Hùng, Hoàng Ngọc Bảo Khuê, Phạm Xuân Trung
-+ HUST Kite (Trường Đại học Bách khoa Hà Nội): Nguyễn Anh Tiến, Phạm Hoàng Tiến, Nguyễn Tấn Dũng
-+ HCMUS-ExploringWorld (Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Thành phố Hồ Chí Minh): Lê Hữu Nghĩa, Lê Minh Hoàng, Vũ Hoàng Tùng
+
+- UET sudo (Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội): Phạm Quốc Hùng, Hoàng Ngọc Bảo Khuê, Phạm Xuân Trung
+- HUST Kite (Trường Đại học Bách khoa Hà Nội): Nguyễn Anh Tiến, Phạm Hoàng Tiến, Nguyễn Tấn Dũng
+- HCMUS-ExploringWorld (Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Thành phố Hồ Chí Minh): Lê Hữu Nghĩa, Lê Minh Hoàng, Vũ Hoàng Tùng
 
 ## Olympic Tin học Sinh viên Việt Nam và ICPC Asia Hanoi 2024
 
 Kỳ thi Olympic Tin học Sinh viên Việt Nam lần thứ 33, kỳ thi PROCON Việt Nam và kỳ thi Lập trình sinh viên Quốc tế ICPC Asia Hanoi 2024 được tổ chức tại Đại học Công nghiệp Hà Nội từ ngày 10 - 13/12/2024. Kỳ thi quy tụ gần 700 coders xuất sắc nhất đến từ 78 trường đại học, cao đẳng, học viện trên khắp cả nước; cùng với đó là 20 đội tuyển ICPC Quốc tế tài năng đến từ Singapore, Hàn Quốc, Indonesia, Thái Lan, Philippines và Đài Loan. Kỳ thi năm 2024 có quy mô lớn nhất từ trước đến nay với hơn 700 thí sinh và 180 huấn luyện viên đến từ 116 trường đại học, cao đẳng, học viện trên cả nước và các quốc gia Singapore, Hàn Quốc, Đài Loan, Thái Lan.
 
 Đối với kỳ thi Olympic Tin học Sinh viên Việt Nam, các vị trí dẫn đầu mỗi khối thi như sau:
-+ Vô địch khối Siêu Cúp: bạn Nguyễn Đức Thắng - Đại học Kinh tế Quốc dân
-+ Vô địch khối Chuyên Tin: bạn Đỗ Anh Khoa - Trường Đại học Công nghệ thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh
-+ Vô địch khối Không Chuyên & Cao Đẳng: bạn Đinh Văn Tùng - Trường Đại học Thủy Lợi
+
+- Vô địch khối Siêu Cúp: bạn Nguyễn Đức Thắng - Đại học Kinh tế Quốc dân
+- Vô địch khối Chuyên Tin: bạn Đỗ Anh Khoa - Trường Đại học Công nghệ thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh
+- Vô địch khối Không Chuyên & Cao Đẳng: bạn Đinh Văn Tùng - Trường Đại học Thủy Lợi
 
 Giải đồng đội khối Chuyên Tin và Không Chuyên của kỳ thi lần lượt thuộc về Đại học Bách khoa Hà Nội và Đại học Kinh tế Quốc dân. Như thông lệ, ngoài ra ban tổ chức còn trao thêm giải nữ sinh xuất sắc nhất dành cho các "bông hồng" đã tham gia kỳ thi. Cụ thể, bạn Nguyễn Thanh Tâm - Trường Đại học Ngoại Thương, Cơ sở II tại Thành phố Hồ Chí Minh với giải Ba khối Không Chuyên cùng với bạn Trần Hương Ly - Trường Đại học Ngoại Thương với giải Nhất khối Chuyên Tin, đã xuất sắc được trao giải thưởng này.
 

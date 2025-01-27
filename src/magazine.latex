@@ -29,6 +29,8 @@
 
     \input{./articles/vnoi-2024.latex}
     \input{./articles/vnoi-cup-2024.latex}
+    \input{./articles/olp-icpc.latex}
+
 
     \input{./articles/dijkstra_prime_algo.latex}
     \input{./articles/general_idea_ds.latex}
