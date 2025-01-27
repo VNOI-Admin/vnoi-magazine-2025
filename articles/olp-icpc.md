@@ -1,7 +1,7 @@
 ---
 layout: post
 meta:
-  title: OLP'24 & ICPC ASIA HUE CITY 2024 - MỘT NĂM VỚI NHIỀU DẤU ẤN
+  title: OLP'24 & ICPC Asia Hanoi 2024 - Nhiều dấu ấn khó quên
   summary: >
     Năm 2024, cộng đồng lập trình thi đấu Việt Nam lại một lần nữa được chứng kiến những màn trình diễn đỉnh cao tại các kỳ thi ICPC và Olympic Tin học Sinh viên. Cùng nhìn lại các kỳ thi này và hành trình VNOI đồng hành tại các kỳ thi nhé!
 ---
