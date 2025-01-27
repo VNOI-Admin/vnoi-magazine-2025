@@ -236,13 +236,11 @@ Có thể thấy, thuật toán Dijkstra là một sự cân bằng giữa thờ
 
 ## Có nên sử dụng thuật toán tìm số nguyên tố của Dijkstra không?
 
-Thuật toán của Dijkstra tuy "không có điểm yếu" nhưng chính vì sự cân bằng đó cũng khiến thuật toán "không có điểm mạnh" nếu so với hai thuật toán còn lại - hai thuật toán có điểm nổi trội rõ rệt: thử sai sử dụng rất ít bộ nhớ, và thời gian chạy của sàng là khá nhỏ.
+Thuật toán của Dijkstra tuy "không có điểm yếu" nhưng chính vì sự cân bằng đó cũng khiến thuật toán "không có điểm mạnh" nếu so với hai thuật toán còn lại - hai thuật toán có điểm nổi trội rõ rệt: thử sai sử dụng rất ít bộ nhớ, và thời gian chạy của sàng là khá nhỏ. Ngay cả trong bài viết của Dijkstra nói về thuật toán này cũng viết:
 
-Ngay cả trong bài viết của Dijkstra nói về thuật toán này cũng viết:
+> "But everybody knows that the most effienct way to generate prime numbers is by using the Sieve of Erathosthenes."
 
-> _"But everybody knows that the most effienct way to generate prime numbers is by using the Sieve of Erathosthenes."_
-
-_Tạm dịch: Ai cũng biết cách hiệu quả nhất để sinh số nguyên tố chính là sử dụng thuật thuật toán sàng Eratosthenes._
+> (Tạm dịch: Ai cũng biết cách hiệu quả nhất để sinh số nguyên tố chính là sử dụng thuật thuật toán sàng Eratosthenes.)
 
 Tuy nhiên, đây cũng là một thuật toán rất hay ho mà bạn có thể học!
 
