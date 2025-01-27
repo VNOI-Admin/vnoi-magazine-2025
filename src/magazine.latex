@@ -19,7 +19,7 @@
     \input{./introduction.latex}
     
     \newpage
-    \newgeometry{left=3.5cm,right=3.5cm,top=10cm, bottom=1.5cm}
+    \newgeometry{left=3.5cm,right=3.5cm,top=8cm, bottom=1.5cm}
     \setbackground{../assets/toc.png}
     \renewcommand{\contentsname}{} % Remove the contents name
     \renewcommand{\cftaftertoctitle}{\hfill}
