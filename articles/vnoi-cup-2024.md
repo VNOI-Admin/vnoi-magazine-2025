@@ -16,19 +16,20 @@ Hai vòng loại diễn ra sôi nổi với sự tham gia lên đến 1900 thí 
 
 Để cho "ra lò" các bài tập đầy thử thách, đòi hỏi sự miệt mài và sáng tạo rất cao trong khâu chuẩn bị và ra đề. Bên cạnh những gương mặt thân quen trong ban ra đề từ các cuộc thi trước, VNOI CUP 2025 cũng đã chào đón thêm nhiều thành viên tài năng mới.
 
-+ Đặng Đoàn Đức Trung: Trưởng ban ra đề VNOI CUP 2023 & 2024 - ICPC World Finalist 2023, 2022, 2021, 2020; Max 2871 Codeforces.
-+ Trần Quang Lộc: trưởng ban ra đề ICPC Asia HCMC 2022, ICPC Asia Hue City 2023; Coordinator Codeforces; Max 2546 Codeforces.
-+ Nguyễn Đinh Quang Minh: ICPC World Finalist 2018, 2021; Max 2726 Codeforces.
-+ Hồ Ngọc Vĩnh Phát: ICPC World Finalist 2023, 2022; HCB IOI 2021; HCV APIO 2021; Max 2345 Codeforces.
-+ Nguyễn Diệp Xuân Quang: ICPC World Finalist 2020, 2021; HCB APIO 2017, Max 2446 Codeforces.
-+ Nguyễn Hoàng Vũ: ICPC World Finalist 2023; HCB IOI 2021; Max 2204 Codeforces.
-+ Phạm Xuân Trung: VNOI CUP 2022 Finalist; giải Nhất HSGQG 2022; Max 2259 Codeforces.
-+ Hoàng Quốc Việt: giải Nhì HSGQG 2022; Max 2139 Codeforces.
-+ Vũ Hoàng Kiên: Bronze Medal ICPC World Finals 2021, ICPC World Finalist 2023, HCB IOI 2019, 2020; HCB APIO 2019, 2020.
-+ Trương Văn Quốc Bảo: HCB IOI 2021, 2022; HCV APIO 2021, 2022.
-+ Lê Quang Huy: HCB IOI 2020, 2021; HCV APIO 2021; HCB APIO 2020.
+- Đặng Đoàn Đức Trung: Trưởng ban ra đề VNOI CUP 2023 & 2024 - ICPC World Finalist 2023, 2022, 2021, 2020; Max 2871 Codeforces.
+- Trần Quang Lộc: Trưởng ban ra đề ICPC Asia HCMC 2022, ICPC Asia Hue City 2023; Coordinator Codeforces; Max 2546 Codeforces.
+- Nguyễn Đinh Quang Minh: ICPC World Finalist 2018, 2021; Max 2726 Codeforces.
+- Hồ Ngọc Vĩnh Phát: ICPC World Finalist 2023, 2022; HCB IOI 2021; HCV APIO 2021; Max 2345 Codeforces.
+- Nguyễn Diệp Xuân Quang: ICPC World Finalist 2020, 2021; HCB APIO 2017, Max 2446 Codeforces.
+- Nguyễn Hoàng Vũ: ICPC World Finalist 2023; HCB IOI 2021; Max 2204 Codeforces.
+- Phạm Xuân Trung: VNOI CUP 2022 Finalist; giải Nhất HSGQG 2022; Max 2259 Codeforces.
+- Hoàng Quốc Việt: giải Nhì HSGQG 2022; Max 2139 Codeforces.
+- Vũ Hoàng Kiên: Bronze Medal ICPC World Finals 2021, ICPC World Finalist 2023, HCB IOI 2019, 2020; HCB APIO 2019, 2020.
+- Trương Văn Quốc Bảo: HCB IOI 2021, 2022; HCV APIO 2021, 2022.
+- Lê Quang Huy: HCB IOI 2020, 2021; HCV APIO 2021; HCB APIO 2020.
 
 ## Vòng loại: Bước đệm vững chắc
+
 Vòng loại của VNOI CUP 2024 đã diễn ra vô cùng sôi động với sự tham gia của hàng ngàn thí sinh tài năng. Cuộc đua giành vé vào Vòng Chung kết đã trở nên vô cùng hấp dẫn và gay cấn. Cùng với đó, việc thay đổi số lượng vòng loại VNOI CUP năm nay đòi hỏi hệ thống các bài trong kì thi có sự liên kết và tính phân loại cao để đánh giá đúng thực lực của thí sinh dự thi nhằm chọn ra những thí sinh tài năng nhất cho Vòng Chung kết VNOI CUP 2024. Chính vì vậy, các bài tập trong vòng loại năm nay cũng có phần thử thách hơn những năm trước đó.
 
 Ở vòng loại đầu tiên, ban tổ chức đã ghi nhận con số kỷ lục lên đến gần 1900 thí sinh dự thi, phá kỷ lục 1369 thí sinh của VNOI CUP 2023. Với phong độ thi đấu vô cùng chắc chắn, bạn SanguineChameleon đã rất xuất sắc AC được 6/7 bài tập đầu tiên của kỳ thi và giành ngôi vị dẫn đầu, trong đó các bài tập đều chỉ được nộp một lần duy nhất. Ở vị trí thứ hai và ba lần lượt là bạn Nguyễn Vũ Đăng Huy (Yurushia) và bạn Đỗ Đình Đắc (6aren).
@@ -40,7 +41,7 @@ Tại vòng loại thứ hai, cuộc thi diễn ra không kém phần căng th�
 Sau hai vòng thi loại cùng với đề cử từ cộng đồng, 24 cái tên xuất sắc góp mặt tại Vòng Chung kết đã lộ diện:
 
 - Nguyễn Tấn Sỹ Nguyên - flashmt (30 tuổi), đến từ TP.HCM, Hạng 13 tổng điểm 2 vòng loại.
-- Nguyễn Xuân Tùng - neko_nyaaaaaaaaaaaaaaaaaaaaaaa (25 tuổi), đến từ TP.HCM, Hạng 11 tổng điểm 2 vòng loại.
+- Nguyễn Xuân Tùng - neko_nyaaaaaaaaaaaa.. (25 tuổi), đến từ TP.HCM, Hạng 11 tổng điểm 2 vòng loại.
 - Võ Khắc Triệu - DeMen100ns (19 tuổi), đến từ TP.HCM, Thí sinh xuất sắc do BTC đề cử.
 - Đỗ Đình Đắc - 6aren (25 tuổi), đến từ Hà Nội, Hạng 3 vòng loại thứ nhất.
 - Lê Đức Toàn - toib (20 tuổi), đến từ Biên Hòa, Đồng Nai, Hạng 19 tổng điểm 2 vòng loại.
@@ -48,7 +49,7 @@ Sau hai vòng thi loại cùng với đề cử từ cộng đồng, 24 cái tê
 - Lại Minh Quang - gawr_gura (18 tuổi), đến từ Thanh Hoá, Hạng 3 tổng điểm 2 vòng loại.
 - Nguyễn Đức Thắng - marvinthang (18 tuổi), đến từ Phú Thọ, Hạng 3 vòng loại thứ hai.
 - Hà Lộc Hải - powder (19 tuổi), đến từ Thanh Hoá, Thí sinh xuất sắc do BTC đề cử.
-- Nguyễn Quang Minh - minhcool  (19 tuổi), đến từ Hà Nội, Hạng 6 tổng điểm 2 vòng loại.
+- Nguyễn Quang Minh - minhcool (19 tuổi), đến từ Hà Nội, Hạng 6 tổng điểm 2 vòng loại.
 - Lê Phước Định - cuom1999 (25 tuổi), đến từ Đà Nẵng, Hạng 17 tổng điểm 2 vòng loại.
 - Lê Nguyễn Hữu An - Pannda (18 tuổi), đến từ TP.HCM, Hạng 21 tổng điểm 2 vòng loại.
 - Nguyễn Khánh Phúc - khanhphucscratch (14 tuổi), đến từ Ninh Bình, Hạng 18 tổng điểm 2 vòng loại.
@@ -58,10 +59,10 @@ Sau hai vòng thi loại cùng với đề cử từ cộng đồng, 24 cái tê
 - Phạm Quốc Hùng - hollwo_pelw (19 tuổi), đến từ Hà Nội, Hạng 2 vòng loại thứ hai.
 - Lê Hoàng Nam - noobcoder (18 tuổi), đến từ Hà Nội, Hạng 8 tổng điểm 2 vòng loại.
 - Trần Xuân Bách - fextivity (19 tuổi), đến từ Hà Nội, Hạng 1 vòng loại thứ hai.
-- Nguyễn Tùng Lâm -  kilkuwu (18 tuổi), đến từ Hải Phòng, Hạng 15 tổng điểm 2 vòng loại. 
-- Nguyễn Vũ Đăng Huy - Yurushia (21 tuổi), đến từ TP.HCM, Hạng 2 vòng loại thứ nhất. 
-- Nguyễn Cảnh Dương - duongnc000 (17 tuổi), đến từ Hà Nội, Hạng 1 tổng điểm 2 vòng loại. 
-- Hoàng Xuân Bách - hoangxuanbach (17 tuổi), đến từ Hà Nội, Hạng 16 tổng điểm 2 vòng loại. 
+- Nguyễn Tùng Lâm - kilkuwu (18 tuổi), đến từ Hải Phòng, Hạng 15 tổng điểm 2 vòng loại.
+- Nguyễn Vũ Đăng Huy - Yurushia (21 tuổi), đến từ TP.HCM, Hạng 2 vòng loại thứ nhất.
+- Nguyễn Cảnh Dương - duongnc000 (17 tuổi), đến từ Hà Nội, Hạng 1 tổng điểm 2 vòng loại.
+- Hoàng Xuân Bách - hoangxuanbach (17 tuổi), đến từ Hà Nội, Hạng 16 tổng điểm 2 vòng loại.
 - Nguyễn Ngọc Trung - chemthan (32 tuổi), đến từ Phú Thọ, Hạng 12 tổng điểm 2 vòng loại.
 
 Những cái tên vô cùng xuất sắc kể trên đã tạo nên một Vòng Chung kết kịch tính và khó quên tại VNOI CUP 2024.
@@ -72,15 +73,15 @@ Vòng Chung kết VNOI CUP 2024 đã diễn ra tại Trường Đại học Khoa
 
 Đáng nói, độ tuổi của các thí sinh tham dự Vòng Chung kết rất đa dạng, trong đó có bạn Nguyễn Khánh Phúc (khanhphucscratch) chỉ mới 14 tuổi. Cùng với đó, danh sách này cũng có sự góp mặt của 2/4 thành viên đội tuyển IOI Việt Nam 2024, đó là Hoàng Xuân Bách (hoangxuanbach) và Phạm Công Minh (socpite); đây cũng chính là hai gương mặt vàng đã xuất sắc mang về hai tấm huy chương vàng cho đoàn Việt Nam.
 
-Giống như các cuộc thi trước, Vòng Chung kết VNOI CUP 2024 tiếp tục mở thêm bảng mở rộng - bảng đấu dành cho mọi thí sinh mong muốn có cơ hội cọ sát trực tiếp tại địa điểm thi của các thí sinh chính thức.    
+Giống như các cuộc thi trước, Vòng Chung kết VNOI CUP 2024 tiếp tục mở thêm bảng mở rộng - bảng đấu dành cho mọi thí sinh mong muốn có cơ hội cọ sát trực tiếp tại địa điểm thi của các thí sinh chính thức.
 
-Các bài trong Vòng Chung kết sử dụng những kiến thức đã khá quen thuộc với cộng đồng Tin học Việt Nam trong những năm gần đây, có độ phân hoá cao. Ngoài ra, thí sinh năm nay trải dài ở nhiều thế hệ, do đó, cuộc thi đã diễn ra rất căng thẳng và khó đoán định trước được kết quả. 
+Các bài trong Vòng Chung kết sử dụng những kiến thức đã khá quen thuộc với cộng đồng Tin học Việt Nam trong những năm gần đây, có độ phân hoá cao. Ngoài ra, thí sinh năm nay trải dài ở nhiều thế hệ, do đó, cuộc thi đã diễn ra rất căng thẳng và khó đoán định trước được kết quả.
 
 Trải qua hàng giờ đồng hồ căng thẳng với không khí không thể nào rực lửa hơn của Vòng Chung kết, trong một khoảnh khắc, contest đã chứng kiến sự vượt lên của bạn Lê Hoàng Nam (noobcoder) - thí sinh giải được bài E sớm nhất, trước khi các đối thủ bám đuổi phía sau nhanh chóng bắt kịp sau 2,5 tiếng tranh tài. Nửa sau của contest, Trần Xuân Bách (fextivity) thể hiện đẳng cấp vượt trội của mình khi là thí sinh duy nhất chinh phục bài G trị giá 3500 điểm, qua đó tạo cách biệt lớn với vị trí thứ hai và trở thành nhà Vô địch VNOI CUP 2024 với màn trình diễn thuyết phục. Chung cuộc, ba vị trí đầu tiên của Vòng Chung kết VNOI Cup 2024 đã thuộc về ba cái tên:
 
-- Trần Xuân Bách (19 tuổi) - Nhà Vô địch VNOI CUP 2024 với số điểm 14750, nhận được phần thưởng trị giá 20 triệu VNĐ. 
-- Lê Phước Định (25 tuổi) - Runner-up VNOI CUP 2024 với số điểm 10250, nhận được phần thưởng trị giá 15 triệu VNĐ. 
-- Nguyễn Tấn Sỹ Nguyên (30 tuổi) - Giành cup đồng VNOI CUP 2024 với số điểm 10000, nhận được phần thưởng trị giá 10 triệu VNĐ. 
+- Trần Xuân Bách (19 tuổi) - Nhà Vô địch VNOI CUP 2024 với số điểm 14750, nhận được phần thưởng trị giá 20 triệu VNĐ.
+- Lê Phước Định (25 tuổi) - Runner-up VNOI CUP 2024 với số điểm 10250, nhận được phần thưởng trị giá 15 triệu VNĐ.
+- Nguyễn Tấn Sỹ Nguyên (30 tuổi) - Giành cup đồng VNOI CUP 2024 với số điểm 10000, nhận được phần thưởng trị giá 10 triệu VNĐ.
 
 ## Lời kết
 

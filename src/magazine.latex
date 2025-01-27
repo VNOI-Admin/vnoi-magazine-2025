@@ -19,15 +19,16 @@
     \input{./introduction.latex}
     
     \newpage
-    \newgeometry{left=3.5cm,right=3.5cm,top=5cm}
-    \setbackground{../assets/page-bg.png}
-    \renewcommand{\contentsname}{\hfill\bfseries\Large Mục lục\hfill}   
+    \newgeometry{left=3.5cm,right=3.5cm,top=10cm, bottom=1.5cm}
+    \setbackground{../assets/toc.png}
+    \renewcommand{\contentsname}{} % Remove the contents name
     \renewcommand{\cftaftertoctitle}{\hfill}
     \tableofcontents
     \newpage
     \restoregeometry
-    
+
     \input{./articles/vnoi-2024.latex}
+    \input{./articles/vnoi-cup-2024.latex}
 
     \input{./articles/dijkstra_prime_algo.latex}
     \input{./articles/general_idea_ds.latex}

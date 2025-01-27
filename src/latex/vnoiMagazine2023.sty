@@ -103,8 +103,13 @@
     \pagestyle{fancy}
     %
     \fancyhead{}
-    \lhead{\commandkey{title}}
-    \rhead{\textrm{\textit{\commandkey{author}}}}
+    \lhead{\commandkey{title}} % Add 1cm padding to the left
+    \rhead{\textrm{\textit{\hfill \commandkey{author}}}} % Align to the right with a natural fill
+
+    % Adjust right header offset (optional)
+    \fancyheadoffset[R]{-1cm} % Push the right header inward by 2cm
+    \fancyheadoffset[L]{-1cm} % Push the right header inward by 2cm
+
     %
     % Set intro.png as background for the first page
     \ClearShipoutPictureBG
@@ -124,13 +129,18 @@
     \vfill
     %
     \newpage
-    %
-    % Set page-bg.png as the default background for subsequent pages
-    \ClearShipoutPictureBG
-    \AddToShipoutPictureBG{%
-        \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg.png}%
+    \newcommand{\setPageBackground}{%
+        \ClearShipoutPictureBG
+        \AddToShipoutPictureBG{%
+            \ifodd\value{page}%
+                \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg-odd.png}%
+            \else%
+                \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg-even.png}%
+            \fi%
+        }%
     }
-    %
+    \setPageBackground
+
     \everymath={\displaystyle}
     \begin{multicols*}{2}
 }
@@ -206,6 +216,9 @@
     % \ifodd\value{page}\null\newpage\fi%
    
     \fancyhead{}
+    % Adjust right header offset (optional)
+    \fancyheadoffset[R]{-1cm} % Push the right header inward by 2cm
+    \fancyheadoffset[L]{-1cm} % Push the right header inward by 2cm
    
     ~\thispagestyle{empty}
     % \autoSetBackground
@@ -215,7 +228,6 @@
         \includegraphics[width=\paperwidth,height=\paperheight]{../assets/intro.png}%
     }
 
-   
     \vfill
     \customPart{\commandkey{title}}
     \noindent Interviewer: \commandkey{interviewer}
@@ -224,12 +236,19 @@
     \lhead{\title}
    
     \newpage
-    % Set page-bg.png as the default background for subsequent pages
-    \ClearShipoutPictureBG
-    \AddToShipoutPictureBG{%
-        \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg.png}%
+    
+    \newcommand{\setPageBackground}{%
+        \ClearShipoutPictureBG
+        \AddToShipoutPictureBG{%
+            \ifodd\value{page}%
+                \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg-odd.png}%
+            \else%
+                \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg-even.png}%
+            \fi%
+        }%
     }
-    %
+    \setPageBackground
+   
     \everymath={\displaystyle}
 
     \defineIncludeImageForInterviewEnv{}
@@ -250,6 +269,10 @@
    
     \fancyhead{}
     \lhead{\commandkey{title}}
+    % Adjust right header offset (optional)
+    \fancyheadoffset[R]{-1cm} % Push the right header inward by 2cm
+    \fancyheadoffset[L]{-1cm} % Push the right header inward by 2cm
+    
    
     % \setbackground{../assets/page-bg.png}
    
@@ -258,6 +281,18 @@
         \commandkey{summary}
     }
    
+    \newcommand{\setPageBackground}{%
+        \ClearShipoutPictureBG
+        \AddToShipoutPictureBG{%
+            \ifodd\value{page}%
+                \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg-odd.png}%
+            \else%
+                \includegraphics[width=\paperwidth,height=\paperheight]{../assets/page-bg-even.png}%
+            \fi%
+        }%
+    }
+    \setPageBackground
+
     \everymath={\displaystyle}
     \begin{multicols*}{2}
 }{
