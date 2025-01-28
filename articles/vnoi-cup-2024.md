@@ -101,4 +101,4 @@ Hai tháng - 24 thí sinh - 1 Nhà Vô Địch, VNOI CUP 2024 đã đi đến h�
 
 Như vậy, VNOI CUP 2024 đã khép lại thành công tốt đẹp. Cuộc thi không chỉ là một sân chơi cho các bạn trẻ yêu thích lập trình mà còn là một cầu nối để các tài năng trẻ Việt Nam được giao lưu, học hỏi và phát triển. Kỳ thi đã khép lại với vô vàn cảm xúc khác nhau, nhưng đọng lại vẫn là những cảm xúc không thể nào quên được. Cánh cửa này khép lại để chờ đón những cánh cửa khác mở ra, hãy cùng nhau hướng đến VNOI CUP 2025 nhé!
 
-![Tập thể BTC và đại diện trường Dại học Khoa học tự nhiên, TP.HCM cùng các thí sinh của VCK VNOI CUP 2024](../assets/vnoi-cup-2024/image6.jpg)
+![Tập thể BTC và đại diện trường Dại học Khoa học tự nhiên, TP.HCM cùng các thí sinh của VCK VNOI CUP 2024](../assets/vnoi-cup-2024/image7.jpg)
