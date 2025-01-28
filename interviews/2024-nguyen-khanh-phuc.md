@@ -15,6 +15,8 @@ Em bắt đầu nghiên cứu tin học từ năm lớp ba. Hồi đấy, em là
 
 ### Khi bắt đầu lập trình, em được làm quen với ngôn ngữ Scratch. Từ Scratch, em chuyển qua C++ có những khó khăn nào không?
 
+![](../assets/interviews/2024-nguyen-khanh-phuc/image2.png?width=8cm)
+
 Em thấy rằng việc chuyển từ Scratch sang C++ có lợi thế hơn so với việc học C++ ngay từ đầu, vì khi em học Scratch, em đã có tư duy về thuật toán. Vào năm lớp 5, em đã 'tự chế' tìm kiếm nhị phân và áp dụng trên Scratch mà không cần sự trợ giúp. Khi có tư duy, chuyển sang một ngôn ngữ lập trình mới sẽ không quá khó khăn. Khi tiếp xúc với C++ - nổi tiếng là ngôn ngữ lập trình khó, cũng như những bạn khác, em thấy rắc rối trong việc quản lý các mảng, biến. Học cú pháp, tư duy của C++ khá khó khăn trong những tháng đầu tiên.
 
 ### Anh thấy rằng em gặp khó vì syntax (cú pháp) của C++. Em mất bao lâu để làm quen với C++?
@@ -24,6 +26,8 @@ Vào khoảng tháng 2/2022, em bắt đầu code 'Hello World!', và hai tháng
 _Phương pháp Lambda khá phổ biến, nếu suy nghĩ nhanh thì code Lambda sẽ rất tiện! Tuy vậy, Lambda liên quan đến tính năng của C++, không có liên kết quá nhiều với thuật toán._
 
 ### Em bắt đầu lập trình từ rất sớm. Nhưng những bài toán trong đề Học sinh giỏi có thể không phù hợp với khả năng hồi lớp 6, 7 của em; vì các phép tính toán cần thiết chưa có mặt trong chương trình THCS. Điều đó có gây khó khăn gì cho em hay không?
+
+![](../assets/interviews/2024-nguyen-khanh-phuc/image3.png?width=8cm)
 
 Đối với phiên bản lớp 6 của em, các bài tập đó sẽ gây khó khăn một chút. Hồi đấy, em vẫn còn hơi yếu phần đồng dư thức (modulo) nên đoạn tháng 6/2022, em bắt đầu học nghịch đảo Modulo và hình học tính toán; hai phần đó đã làm khó em rất nhiều vì em chưa đủ kiến thức toán. Em giải quyết vấn đề bằng cách vẫn theo học Đội tuyển Toán của trường. Hiện tại đã là năm thứ tư, em cũng đã có một số thành tích nhất định trong cuộc thi Học sinh giỏi Toán thành phố. Nhờ ba năm học bồi dưỡng, em đã có thể làm được những bài 'nặng toán' không có trong chương trình THCS.
 
@@ -42,6 +46,8 @@ Như em đã nói ở trước, toán trong tin rất khác toán trong các kì
 ### Trong quá trình theo đuổi Lập trình thi đấu, nguồn học tập chủ yếu của em ở đâu?
 
 Những ngày đầu tiên, em lấy đề HSG lớp 9 của các tỉnh (tất nhiên là không phải Hà Nội ạ!), sau đó tập nghĩ và luyện code chắc tay hơn. Sau khoảng bốn tháng học, em được người thân giới thiệu cuốn Giải thuật và Lập trình của thầy Lê Minh Hoàng, khi em đã đạt được trình độ cao hơn. Đến ngày nay, em vẫn chưa đọc hết quyển đấy vì nó khá khó, đặc biệt là thuật toán tìm cặp ghép Blossom. Tháng 5/2022, em bắt đầu luyện trên VNOJ và tham gia contest đầu tiên trên đấy. Ngoài ra, em cũng chuyển sang làm Codeforces với nguồn bài tập đa dạng hơn. Hiện tại thì em làm trên các Online Judge Codeforces và Atcoder.
+
+![](../assets/interviews/2024-nguyen-khanh-phuc/image5.png?width=8cm)
 
 _Trong quá trình tự học, em có đọc các bài viết trên VNOI Wiki không?_
 
@@ -64,6 +70,8 @@ Nếu có cơ hội, em muốn thử sức với vai trò TNV VNOI. Em cảm th�
 Sau VNOI Cup 2023, em bắt đầu tập trung luyện bài nhiều hơn; ngoài ra, em lựa chọn những bài mà thật sự đẩy trình độ của em lên. Trước mùa VNOI Cup năm đó, em luyện bài trên Codeforces nhiều, nhưng chỉ ở mức 1400 tới 1500 rating (!). Tự em cũng cảm thấy các bài đó dễ so với trình độ của em. Sau VNOI Cup 2023 và mùa Tin Học Trẻ năm 2023 với kết quả không được khả quan, em thay đổi chiến thuật luyện tập của mình. Những ngày đầu tiên, em làm bài ở mức 1900 tới 2000, sau đó đẩy độ khó dần. Trong khoảng 6-8 tháng, em đã giải được gần 400 bài. Rating em có thể giải ổn định ở mức là 2400.
 
 ### Em hay chọn bài để luyện một cách ngẫu nhiên, không quan tâm đến tag; hay luyện tập theo chủ đề - hôm nay học Quy hoạch động, hôm sau học đồ thị?
+
+![](../assets/interviews/2024-nguyen-khanh-phuc/image6.png?width=8cm)
 
 Em là người học theo cách đầu tiên. Trong lập trình thi đấu, các bài 2600 Codeforces đổ xuống không yêu cầu kĩ thuật, các thuật toán “dị”. Em chỉ gặp một số bài Xor Basis, Luồng, FFT, $\dots$ Độ khó của bài nằm ở việc tìm-ra-thuật-toán-cần-dùng. Ví dụ, em gặp một bài DFS, nhưng đọc vào lại chả giống DFS một chút nào. Nếu dùng tag, có thể em sẽ nghĩ ra ngay lập tức. Nhưng trong kì thi thật, em sẽ không được dùng tag mà phải tự tìm ra đường đi cho mình.
 
@@ -88,6 +96,8 @@ Nếu phải dùng một từ để mô tả VNOI Cup Final, thì em sẽ dùng 
 
 _Lý do nào khiến em quyết định tham gia VNOI Cup? Có phải do contest đó là kì thi duy nhất hiện lên trang VNOJ?_
 
+![](../assets/interviews/2024-nguyen-khanh-phuc/image7.png?width=8cm)
+
 Lí do em thi VNOI Cup khá đơn giản. Sau VNOI Cup 2022, em lên Facebook chị Diễm Quỳnh (Admin VNOI), và thấy chị chụp áo VNOI Cup – phần thưởng cho các thí sinh xuất sắc nhất. Câu hỏi đầu tiên hiện lên trong đầu em: “Uầy, cái áo này đẹp quá! Làm sao để có áo này đây?”. Em quyết định thi VNOI Cup 2023, dành top 75 để có áo. VNOI Cup 2024 thì có khác biệt một chút. Cuối năm 2023, em trải qua một giai đoạn trầm cảm vì thành tích trong kì thi Tin Học Trẻ bảng B năm 2023. Em đã cài bug hơn một tiếng bài không quá khó trong tầm nghĩ của em, tuột mất giải Nhất. Em rất buồn trong thời gian dài, không có hứng thú tham gia bất kỳ kì thi nào. Em có một đứa bạn thân. Em với bạn ấy muốn chụp ảnh đôi. Em đã hứa với bạn rằng sẽ cố gắng lấy thêm một áo VNOI Cup nữa để có thể chụp ảnh đôi, vì sức bạn ấy không quá mạnh, hi vọng giành áo không thể lớn như em. Đấy là lí do duy nhất em tham dự VNOI Cup 2024. Và với thật nhiều may mắn, em đã vào được chung kết.
 
 ### Theo em, trong một kì thi, yếu tố tâm lý chiếm tỉ lệ như thế nào đối với kết quả? Diễn biến tâm lý của em diễn ra như thế nào qua các kì thi?
@@ -100,11 +110,11 @@ Trước contest đầu tiên trên Codeforces, em vừa tham gia kì thi Tin h�
 
 ### Trong những đề thi, bài tập mà em từng làm, em đã gặp bài nào mà em ấn tượng sâu sắc chưa? Vì sao?
 
-Em đã từng gặp rất nhiều bài với cách giải vô cùng bất ngờ. Lập trình thi đấu là một thế giới vô cùng rộng lớn và chắc hẳn rằng sẽ có những thứ cực kỳ thú vị. Nhắc đến bài làm em cảm xúc nhất, em phải nói đến bài D Round 1 VNOI Cup 2024 (Nam châm). Em vẫn còn nhớ rất rõ đề câu đó.
+Em đã từng gặp rất nhiều bài với cách giải vô cùng bất ngờ. Lập trình thi đấu là một thế giới vô cùng rộng lớn và chắc hẳn rằng sẽ có những thứ cực kỳ thú vị. Nhắc đến bài làm em cảm xúc nhất, em phải nói đến bài D Round 1 VNOI Cup 2024 (Nam châm). Em vẫn còn nhớ rất rõ đề câu đó. Đa số các bạn em đều theo hướng đi tham lam. Nó rất dễ để liên tưởng đến, nhưng cài đặt lại vô cùng khó. Với giới hạn N và toạ độ lớn, đáp án tối ưu chỉ có thể ở dưới dạng tiệm cận sau vô số thao tác. Lúc đấy, tâm trạng của em không được ổn định vì bài C em bị bug khá nhiều. Khi đọc bài D, em cũng nghĩ về tham lam. Như em đã nói, tham lam là điểm yếu của em. Do vậy, em nghĩ rằng: 'phải có gì đó sâu xa hơn tham lam!'.
 
-![Bài D - Vòng loại thứ nhất VNOI CUP 2024](../assets/interviews/2024-nguyen-khanh-phuc/image1.png)
+![Bài D - Vòng loại thứ nhất VNOI CUP 2024](../assets/interviews/2024-nguyen-khanh-phuc/image1.png?width=10cm)
 
-Đa số các bạn em đều theo hướng đi tham lam. Nó rất dễ để liên tưởng đến, nhưng cài đặt lại vô cùng khó. Với giới hạn N và toạ độ lớn, đáp án tối ưu chỉ có thể ở dưới dạng tiệm cận sau vô số thao tác. Lúc đấy, tâm trạng của em không được ổn định vì bài C em bị bug khá nhiều. Khi đọc bài D, em cũng nghĩ về tham lam. Như em đã nói, tham lam là điểm yếu của em. Do vậy, em nghĩ rằng: 'phải có gì đó sâu xa hơn tham lam!'. Em tự hỏi rằng bài toán này có thể chuyển về dạng đơn biến hay không? Vì yếu tham lam, em bắt tay vào làm theo hướng đó luôn. Và may mắn thay, nó chính là solution chuẩn của BTC! Khi xét tổng của các cặp nam châm, số ấy là một hàm đơn biến, có thể tính được đáp án cực kỳ nhanh. Em rất bất ngờ, chả lẽ đề câu D VNOI Cup lại dễ thế này à!? Không dễ nhìn, nhưng ý tưởng của một bài D VNOI Cup chỉ code 20 dòng được! Em một đấm AC bài đó, và là người thứ hai giải xong bài này (sau neko_nyaaaaaaaaaaaaaaaaaaaaaaa).
+Em tự hỏi rằng bài toán này có thể chuyển về dạng đơn biến hay không? Vì yếu tham lam, em bắt tay vào làm theo hướng đó luôn. Và may mắn thay, nó chính là solution chuẩn của BTC! Khi xét tổng của các cặp nam châm, số ấy là một hàm đơn biến, có thể tính được đáp án cực kỳ nhanh. Em rất bất ngờ, chả lẽ đề câu D VNOI Cup lại dễ thế này à!? Không dễ nhìn, nhưng ý tưởng của một bài D VNOI Cup chỉ code 20 dòng được! Em một đấm AC bài đó, và là người thứ hai giải xong bài này (sau neko_nyaaaaaaaaaaaaaaaaaaaaaaa).
 
 ### Em đã làm rất nhiều bộ đề, chắc hẳn em cũng biết đề thi HSGQG các năm gần đây rất khó. Em đã thử làm một bộ đề nào đó chưa? Em đánh giá đề HSGQG như thế nào so với các kỳ thi em từng tham gia?
 
@@ -124,6 +134,8 @@ Nếu có thời gian, việc đọc code sẽ rất hữu ích. Tuy vậy, em t
 
 _Các bạn 'đỏ đen' CF thường sẽ có phong cách riêng. Như Jiangly thì code rất đơn giản, chân phương, không cần sử dụng template. Tourist chuẩn bị cho mình template rất đầy đủ và tận dụng tối đa sức mạnh của template để đạt được lợi thế. Khi em đọc code của Benq, em sẽ cảm thấy cực kì khó hiểu. Em tự định nghĩa phong cách code của em như thế nào?_
 
+![](../assets/interviews/2024-nguyen-khanh-phuc/image8.png?width=8cm)
+
 Cách code của em là build-from-scratch, em thường code lại tất cả mọi thứ từ đầu. Em không dùng template, đặc biệt là vòng loại VNOI Cup, em chả code sẵn cái nào luôn. Những kì thi mà em tham gia, yêu cầu thuật toán sẽ ít hơn rất nhiều so với yêu cầu về tư duy. Những bài cần dùng thuật toán khó đồng nghĩa với việc tư duy của nó phải khó hơn gấp nhiều lần, vượt quá tầm với của em. Các bài em làm được, đa số đều không cần sự cầu kì về mặt kĩ thuật code. Do vậy, em không nghĩ tới việc làm code sẵn. Tuy nhiên, với những kỳ thi như VNOI Cup Final hay ICPC Regional Hà Nội, em nghĩ rằng việc chuẩn bị template là 'có còn hơn không'. Chuẩn bị xong thì em chả dùng lần nào, từ VNOI Cup Final, ICPC Quốc gia đến ICPC Regional.
 
 ### AI đang ngày càng mạnh hơn, tạo nên sự so sánh rằng AI đã đạt trình độ Đỏ CF (2300 – 2400). Theo em, với việc AI đã có thể giải được các bài Lập trình thi đấu, em sẽ xem AI như là một công cụ hay hoàn toàn không sử dụng nó?
@@ -140,6 +152,8 @@ Em tự nhận rằng mình là một người khá 'vô kỉ luật', em thật
 
 ### Em có cơ hội tiếp xúc Lập trình thi đấu từ rất sớm. Nếu không chọn môn Tin, em nghĩ hướng đi của em sẽ như thế nào?
 
+![](../assets/interviews/2024-nguyen-khanh-phuc/image9.jpg?width=8cm&wrapfigLineheight=10)
+
 Khả năng cao nhất của em chắc vẫn ở môn Toán. Nhưng em không quá mạnh Toán, nên có lẽ em sẽ đổi hướng qua các môn tự nhiên khác như lý, hóa, … Với các môn khác, em sẽ không cạnh tranh bằng môn Tin. Em cảm thấy may mắn vì đã chọn Tin làm môn chuyên của mình.
 
 ### Ngoài việc học, em còn sở thích nào không?
@@ -155,6 +169,8 @@ Em sẽ cố gắng đậu đội tuyển và thi HSGQG. Nếu may mắn, em có
 Cá nhân em chán học Tin rất nhiều. Học từ 4-6 tiếng một ngày, không tránh khỏi những suy nghĩ tiêu cực khi trình độ không nhích lên. Em lấy động lực từ gia đình em với sự hỗ trợ rất lớn trong việc học tập của em. Em mong rằng mình có thể trở thành lập trình viên thật tài năng để chăm sóc được gia đình em sau này.
 
 ### Anh cảm thấy rằng em có rất nhiều trải nghiệm đáng quý để chia sẻ cho quý độc giả. Em có lời khuyên, lời chúc nào cho các bạn độc giả nhân dịp Tết này không?
+
+![](../assets/interviews/2024-nguyen-khanh-phuc/image10.jpg?width=8cm)
 
 Em nghĩ rằng lời khuyên giá trị nhất của em chính là: “Hãy nhớ tại sao mình bắt đầu”. Chỉ khi nhớ được những lí do bắt đầu, mình mới tạo ra động lực để vượt ngàn chông gai, chiến thắng bản thân mình.
 
