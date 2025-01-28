@@ -12,7 +12,11 @@ Năm 2024, VNOI CUP đã đánh dấu một bước tiến mới với nhiều �
 
 Hai vòng loại diễn ra sôi nổi với sự tham gia lên đến 1900 thí sinh trong một vòng thi, là số thí sinh tham gia kỷ lục trong tất cả các kì thi đã từng tổ chức trên hệ thống VNOJ. Vòng Chung kết diễn ra tại Trường Đại học Khoa học tự nhiên, Đại học Quốc gia Thành phố Hồ Chí Minh đã thu hút sự quan tâm của đông đảo cộng đồng lập trình thi đấu. Các thí sinh xuất sắc nhất đã có cơ hội giao lưu, học hỏi và cùng nhau tranh tài trong một không khí vô cùng sôi động.
 
+![Timeline VNOI CUP 2024](../assets/vnoi-cup-2024/image1.jpg)
+
 ## Ban ra đề VNOI CUP 2024
+
+![Thành tích ban ra đề VNOI CUP 2024](../assets/vnoi-cup-2024/image2.jpg)
 
 Để cho "ra lò" các bài tập đầy thử thách, đòi hỏi sự miệt mài và sáng tạo rất cao trong khâu chuẩn bị và ra đề. Bên cạnh những gương mặt thân quen trong ban ra đề từ các cuộc thi trước, VNOI CUP 2025 cũng đã chào đón thêm nhiều thành viên tài năng mới.
 
@@ -37,6 +41,8 @@ Vòng loại của VNOI CUP 2024 đã diễn ra vô cùng sôi động với s�
 Tại vòng loại thứ hai, cuộc thi diễn ra không kém phần căng thẳng. Với kinh nghiệm chinh chiến từ nhiều cuộc thi lớn trong và ngoài nước, Trần Xuân Bách (fextivity) đã xuất sắc dẫn đầu vòng thi với số điểm 12250/15250, AC 6/7 bài toán. Xếp thứ hai và ba lần lượt là Phạm Quốc Hùng (hollwo_pelw) và Nguyễn Đức Thắng (marvinthang), cũng đồng số điểm 12250/15250. Đáng nói, khoảng cách giữa vị trí dẫn đầu và vị trí số hai chỉ hơn 3 phút thời gian làm bài mà thôi.
 
 ## Danh sách thí sinh dự thi Vòng Chung kết
+
+![Danh sách thí sinh tham dự VCK VNOI CUP 2024](../assets/vnoi-cup-2024/image3.jpg)
 
 Sau hai vòng thi loại cùng với đề cử từ cộng đồng, 24 cái tên xuất sắc góp mặt tại Vòng Chung kết đã lộ diện:
 
@@ -69,6 +75,8 @@ Những cái tên vô cùng xuất sắc kể trên đã tạo nên một Vòng 
 
 ## Vòng Chung kết: Đỉnh cao của tài năng
 
+![Vòng chung kết VNOI CUP 2024 được phối hợp tổ chức tại TP.HCM từ ngày 01/08 - 04/08](../assets/vnoi-cup-2024/image4.jpg)
+
 Vòng Chung kết VNOI CUP 2024 đã diễn ra tại Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Thành phố Hồ Chí Minh. 24 thí sinh xuất sắc nhất từ vòng loại đã hội tụ tại đây để tranh tài.
 
 Đáng nói, độ tuổi của các thí sinh tham dự Vòng Chung kết rất đa dạng, trong đó có bạn Nguyễn Khánh Phúc (khanhphucscratch) chỉ mới 14 tuổi. Cùng với đó, danh sách này cũng có sự góp mặt của 2/4 thành viên đội tuyển IOI Việt Nam 2024, đó là Hoàng Xuân Bách (hoangxuanbach) và Phạm Công Minh (socpite); đây cũng chính là hai gương mặt vàng đã xuất sắc mang về hai tấm huy chương vàng cho đoàn Việt Nam.
@@ -77,14 +85,20 @@ Giống như các cuộc thi trước, Vòng Chung kết VNOI CUP 2024 tiếp t�
 
 Các bài trong Vòng Chung kết sử dụng những kiến thức đã khá quen thuộc với cộng đồng Tin học Việt Nam trong những năm gần đây, có độ phân hoá cao. Ngoài ra, thí sinh năm nay trải dài ở nhiều thế hệ, do đó, cuộc thi đã diễn ra rất căng thẳng và khó đoán định trước được kết quả.
 
+![Không khí VCK VNOI CUP 2024 tại trường Đại hoc Khoa học tự nhiên, TP.HCM](../assets/vnoi-cup-2024/image5.jpg)
+
 Trải qua hàng giờ đồng hồ căng thẳng với không khí không thể nào rực lửa hơn của Vòng Chung kết, trong một khoảnh khắc, contest đã chứng kiến sự vượt lên của bạn Lê Hoàng Nam (noobcoder) - thí sinh giải được bài E sớm nhất, trước khi các đối thủ bám đuổi phía sau nhanh chóng bắt kịp sau 2,5 tiếng tranh tài. Nửa sau của contest, Trần Xuân Bách (fextivity) thể hiện đẳng cấp vượt trội của mình khi là thí sinh duy nhất chinh phục bài G trị giá 3500 điểm, qua đó tạo cách biệt lớn với vị trí thứ hai và trở thành nhà Vô địch VNOI CUP 2024 với màn trình diễn thuyết phục. Chung cuộc, ba vị trí đầu tiên của Vòng Chung kết VNOI Cup 2024 đã thuộc về ba cái tên:
 
 - Trần Xuân Bách (19 tuổi) - Nhà Vô địch VNOI CUP 2024 với số điểm 14750, nhận được phần thưởng trị giá 20 triệu VNĐ.
 - Lê Phước Định (25 tuổi) - Runner-up VNOI CUP 2024 với số điểm 10250, nhận được phần thưởng trị giá 15 triệu VNĐ.
 - Nguyễn Tấn Sỹ Nguyên (30 tuổi) - Giành cup đồng VNOI CUP 2024 với số điểm 10000, nhận được phần thưởng trị giá 10 triệu VNĐ.
 
+![Chân dung TOP 3 VCK VNOI CUP 2024: Lê Phước Định, Trần Xuân Bách, Nguyẽn Tấn Sỹ Nguyên](../assets/vnoi-cup-2024/image6.jpg)
+
 ## Lời kết
 
 Hai tháng - 24 thí sinh - 1 Nhà Vô Địch, VNOI CUP 2024 đã đi đến hồi kết với một kì chung kết cực kì mãn nhãn. Cuộc thi may mắn được chứng kiến những màn trình diễn cực kì thuyết phục từ tất cả thí sinh tham gia dự thi; bao gồm cả những màn khẳng định sức mạnh đến từ các gương mặt quen thuộc, và sự tiến bộ rất đáng mong chờ mà các thế hệ "măng non" của nền Tin học Việt Nam có thể đem lại.
 
 Như vậy, VNOI CUP 2024 đã khép lại thành công tốt đẹp. Cuộc thi không chỉ là một sân chơi cho các bạn trẻ yêu thích lập trình mà còn là một cầu nối để các tài năng trẻ Việt Nam được giao lưu, học hỏi và phát triển. Kỳ thi đã khép lại với vô vàn cảm xúc khác nhau, nhưng đọng lại vẫn là những cảm xúc không thể nào quên được. Cánh cửa này khép lại để chờ đón những cánh cửa khác mở ra, hãy cùng nhau hướng đến VNOI CUP 2025 nhé!
+
+![Tập thể BTC và đại diện trường Dại học Khoa học tự nhiên, TP.HCM cùng các thí sinh của VCK VNOI CUP 2024](../assets/vnoi-cup-2024/image6.jpg)
